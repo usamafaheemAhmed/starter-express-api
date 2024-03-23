@@ -1,0 +1,6 @@
+20231027	16:56:15	5d93f975-1d4b-400c-bf47-b710c648c9bb	POST	::1	PostmanRuntime/7.34.0	/api/userprofile/getAll
+20231027	16:56:36	29092d40-183a-41ce-9846-e962a0d050af	POST	::1	PostmanRuntime/7.34.0	/api/userprofile/Add
+20231030	00:34:06	fd134f62-3ac5-4755-8805-d2c6f65e7220	GET	::1	PostmanRuntime/7.34.0	/api/product/Add
+20231030	00:35:22	7a5fcab7-9fd5-4ade-88ea-8bae86480d56	GET	::1	PostmanRuntime/7.34.0	/api/product/Add
+20240207	16:51:24	94dbd410-8844-4497-9d6b-4c233c83207a	GET	::ffff:127.0.0.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0	/api/api/userprofile/getOne
+20240207	16:51:24	3f352d8c-bc8a-4ffa-b6b3-2a92cfc24fbb	GET	::ffff:127.0.0.1	Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0	/api/api/userprofile/getOne
